@@ -31,7 +31,7 @@ This project uses React to render a list of contacts with a reusable `Card` comp
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/your-repo.git
+   git clone https://github.com/jbolan12/Mapping-Data-Components.git
 
 
 **Navigate to the project directory:**
